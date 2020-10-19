@@ -1,5 +1,5 @@
 # Practical Machine Learning
-Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. 
+Using devices like Jawbone Up, Nike FuelBand, and Fitbit we can now collect a massive amount of data about personal activity. These type of devices are part of the quantified self movement–a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech nerds. 
 
 # Data
 The training data for this project can be procured using the following link:
@@ -10,4 +10,4 @@ The test data can be procured using the following link:
 
 https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
 
-The goal of your project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did.
+The goal of this project is to predict the manner in which they exercised. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did.
